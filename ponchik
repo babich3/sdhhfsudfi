@@ -7,10 +7,11 @@
    <title>Магазин пончиків</title>
 </head>
 <style>
-h1{
+body{
    color:red;
+   text-align:center;
 }
-/* Стилі пиши тут :) */
+
 
 
 </style>
